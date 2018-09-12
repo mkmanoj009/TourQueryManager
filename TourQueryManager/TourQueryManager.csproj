@@ -138,6 +138,7 @@
     <Compile Include="SettingPage.Designer.cs">
       <DependentUpon>SettingPage.cs</DependentUpon>
     </Compile>
+    <Compile Include="Settings.cs" />
     <Compile Include="UserPage.cs">
       <SubType>Form</SubType>
     </Compile>
